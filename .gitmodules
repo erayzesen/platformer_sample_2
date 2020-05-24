@@ -1,0 +1,3 @@
+[submodule "codemath"]
+	path = codemath
+	url = git@github.com:CodeMath/codemath.github.io.git
